@@ -26,19 +26,19 @@ python pomodoro.py
 
 ## Usage
 
--Click the "Start" button to begin a Pomodoro session (25 minutes).
+- Click the "Start" button to begin a Pomodoro session (25 minutes).
 
--After completing a Pomodoro, a checkmark will be displayed.
+- After completing a Pomodoro, a checkmark will be displayed.
 
--After every 4 Pomodoros, a longer break (20 minutes) is introduced.
+- After every 4 Pomodoros, a longer break (20 minutes) is introduced.
 
--Click the "Reset" button to clear the timer and checkmarks.
+- Click the "Reset" button to clear the timer and checkmarks.
 
 ## Acknowledgments
 
--Inspired by the Pomodoro technique.
+- Inspired by the Pomodoro technique.
 
--Built with Python and Tkinter.
+- Built with Python and Tkinter.
 
 ##
 Feel free to change the details according to your project specifics!
