@@ -35,4 +35,5 @@ Acknowledgments
 Inspired by the Pomodoro technique.
 Built with Python and Tkinter.
 
+
 Feel free to change the details according to your project specifics!
