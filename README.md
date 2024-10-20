@@ -19,10 +19,10 @@ This is a simple Pomodoro Timer application built using Python's Tkinter library
    cd pomodoro
 Install Dependencies: You might need to install Tkinter if it’s not included with your Python installation. Usually, it comes pre-installed with standard Python distributions.
 
-3.Run the Application: Open your terminal or command prompt, navigate to the project directory, and run:
+3. **Run the Application**: Open your terminal or command prompt, navigate to the project directory, and run:
 python pomodoro.py
 
-4.Add the Image: Ensure that you have the tomato.png image in the same directory as your Python file, as the application uses this image for display.
+4. **Add the Image**: Ensure that you have the tomato.png image in the same directory as your Python file, as the application uses this image for display.
 
 ## Usage
 
